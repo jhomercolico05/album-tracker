@@ -1,16 +1,7 @@
-# React + Vite
+**Album Tracker**
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Album-tracker is a music discovery and collection app, which allows you to search for any album, get personalized recommendations, and maintain a personal library of everything you listen to. When you find an album you can save it to your collection, and rate it yourself, creating a record of your tastes, and recommends album based on your music album collection. There is built-in Deezer integration, so you can browse Deezer’s catalog, pull in album details and artwork and start listening without leaving the app. 
 
-Currently, two official plugins are available:
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/24b071a6-6433-471c-b8b0-5e94094ce00e" />
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Link: https://album-tracker-jhomer.vercel.app
